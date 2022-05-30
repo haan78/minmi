@@ -1,4 +1,4 @@
-# Whait is Minmi?
+# What is Minmi?
 Minmi is a minimalist Web Framework which is written in PHP.
 
 ## Examples
